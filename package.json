@@ -40,8 +40,8 @@
     "printWidth": 100
   },
   "devDependencies": {
-    "esbuild": "^0.9.2",
-    "esbuild-register": "^2.3.0",
+    "esbuild": "^0.25.0",
+    "esbuild-register": "^3.6.0",
     "gh-release": "^5.0.0",
     "kacl": "^1.1.1",
     "prettier": "^2.2.1",
